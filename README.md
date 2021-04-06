@@ -1,24 +1,24 @@
 # Fbfriendstools
-#apt update
+# apt update
 
-#apt upgrade
+# apt upgrade
 
-#apt install python
+# apt install python
 
-#apt install python2
+# apt install python2
 
-#apt install git
+# apt install git
 
-#pip2 install requests mechanize
+# pip2 install requests mechanize
 
-#git clone https://github.com/Aryanjan002/Friend-Hack
+# git clone https://github.com/Aryanjan002/Friend-Hack
 
-#cd Friend-Hack
+# cd Friend-Hack
 
 #ls
 
-#python2 Aryanhacker.py
+# python2 Aryanhacker.py
 
-#Username Aryan
+# Username Aryan
 
-#password Hacker
+# password Hacker
